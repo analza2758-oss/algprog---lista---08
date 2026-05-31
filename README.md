@@ -54,12 +54,12 @@ Desenvolver soluções utilizando funções para promover a reutilização de c�
 
 ## Exercícios Desenvolvidos
 
-- [Exercício 1](Exercicio01.java) - Impressão de padrão numérico.
-- [Exercício 2](Exercicio02.java) – Impressão de sequência crescente.
-- [Exercício 3](Exercicio03.java) – Soma de três valores.
-- [Exercício 4](Exercicio04.java) – Verificação de número positivo ou negativo.
-- [Exercício 5](Exercicio05.java) – Cálculo de imposto sobre um produto.
-- [Exercício 6](Exercicio06.java) – Conversão de horário (24h → 12h).
+- [Exercício 1](/Lista08/Exercicio01.java) - Impressão de padrão numérico.
+- [Exercício 2](/Lista08/Exercicio02.java) – Impressão de sequência crescente.
+- [Exercício 3](/Lista08/Exercicio03.java) – Soma de três valores.
+- [Exercício 4](/Lista08/Exercicio04.java) – Verificação de número positivo ou negativo.
+- [Exercício 5](/Lista08/Exercicio05.java) – Cálculo de imposto sobre um produto.
+- [Exercício 6](/Lista08/Exercicio06.java) – Conversão de horário (24h → 12h).
 
 ## Tecnologias
 
